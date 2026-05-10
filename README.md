@@ -108,7 +108,8 @@ Production-grade GitOps Kubernetes platform implementing CI/CD automation, ArgoC
 
 ## Kubernetes Pods
 
-<img width="409" height="95" alt="Pods" src="https://github.com/user-attachments/assets/13a8bad0-98c7-496b-b9af-9dffb55292c3" />
+<img width="959" height="403" alt="Podss" src="https://github.com/user-attachments/assets/e44a82bf-76de-4eb6-99e6-09604810acf8" />
+
 
 
 ---
