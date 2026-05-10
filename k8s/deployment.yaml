@@ -19,8 +19,8 @@ spec:
     spec:
       containers:
       - name: gitops-demo-container
-        image: gitops-demo:v1
-        imagePullPolicy: Never
+        image: shaikabdulrasheeq/gitops-demo:v1
+       
 
         ports:
         - containerPort: 5000
